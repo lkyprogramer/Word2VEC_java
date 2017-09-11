@@ -19,6 +19,9 @@ public class Test {
         System.out.println(w1.distance("魔术队"));
         
         System.out.println(w1.distance("魔术"));
+
+
+
         
     }
 }
